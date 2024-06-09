@@ -1,5 +1,5 @@
 # Look
-[/public/readimg.png]
+[public/readimg.png]
 
 ## Getting Started with Create React App
 
