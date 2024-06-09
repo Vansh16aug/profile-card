@@ -1,5 +1,5 @@
 # Look
-![public/readimg.png]
+![Profile Card](public/readimg.png)
 
 ## Getting Started with Create React App
 
